@@ -1,1 +1,0 @@
-This is the instruction on check out and push changes made on the files
